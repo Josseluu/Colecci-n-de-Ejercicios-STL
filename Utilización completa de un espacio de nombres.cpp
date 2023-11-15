@@ -8,5 +8,5 @@ namespace Matematicas {
     }}
 
 int main() {
-
+    std::cout << "Suma: " << Matematicas::suma(5, 3) << std::endl;
 }
