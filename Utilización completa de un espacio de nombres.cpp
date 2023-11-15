@@ -8,7 +8,7 @@ namespace Matematicas {
     }}
 
 int main() {
-    std::cout << "Suma: " << Matematicas::suma(5, 3) << std::endl;
-    std::cout << "Resta: " << Matematicas::resta(5, 3) << std::endl;
+    std::cout << "Suma: " << Matematicas::suma(30, 3) << std::endl;
+    std::cout << "Resta: " << Matematicas::resta(20, 3) << std::endl;
      return 0;
 }
